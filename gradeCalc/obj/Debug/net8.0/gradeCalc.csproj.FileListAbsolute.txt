@@ -1,0 +1,15 @@
+/Users/carltonakussah/Desktop/Kono/dcit318-assignment1-10979469/gradeCalc/bin/Debug/net8.0/gradeCalc
+/Users/carltonakussah/Desktop/Kono/dcit318-assignment1-10979469/gradeCalc/bin/Debug/net8.0/gradeCalc.deps.json
+/Users/carltonakussah/Desktop/Kono/dcit318-assignment1-10979469/gradeCalc/bin/Debug/net8.0/gradeCalc.runtimeconfig.json
+/Users/carltonakussah/Desktop/Kono/dcit318-assignment1-10979469/gradeCalc/bin/Debug/net8.0/gradeCalc.dll
+/Users/carltonakussah/Desktop/Kono/dcit318-assignment1-10979469/gradeCalc/bin/Debug/net8.0/gradeCalc.pdb
+/Users/carltonakussah/Desktop/Kono/dcit318-assignment1-10979469/gradeCalc/obj/Debug/net8.0/gradeCalc.GeneratedMSBuildEditorConfig.editorconfig
+/Users/carltonakussah/Desktop/Kono/dcit318-assignment1-10979469/gradeCalc/obj/Debug/net8.0/gradeCalc.AssemblyInfoInputs.cache
+/Users/carltonakussah/Desktop/Kono/dcit318-assignment1-10979469/gradeCalc/obj/Debug/net8.0/gradeCalc.AssemblyInfo.cs
+/Users/carltonakussah/Desktop/Kono/dcit318-assignment1-10979469/gradeCalc/obj/Debug/net8.0/gradeCalc.csproj.CoreCompileInputs.cache
+/Users/carltonakussah/Desktop/Kono/dcit318-assignment1-10979469/gradeCalc/obj/Debug/net8.0/gradeCalc.sourcelink.json
+/Users/carltonakussah/Desktop/Kono/dcit318-assignment1-10979469/gradeCalc/obj/Debug/net8.0/gradeCalc.dll
+/Users/carltonakussah/Desktop/Kono/dcit318-assignment1-10979469/gradeCalc/obj/Debug/net8.0/refint/gradeCalc.dll
+/Users/carltonakussah/Desktop/Kono/dcit318-assignment1-10979469/gradeCalc/obj/Debug/net8.0/gradeCalc.pdb
+/Users/carltonakussah/Desktop/Kono/dcit318-assignment1-10979469/gradeCalc/obj/Debug/net8.0/gradeCalc.genruntimeconfig.cache
+/Users/carltonakussah/Desktop/Kono/dcit318-assignment1-10979469/gradeCalc/obj/Debug/net8.0/ref/gradeCalc.dll
